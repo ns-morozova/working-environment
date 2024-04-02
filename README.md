@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8uu1sbtpfina3orh?svg=true)](https://ci.appveyor.com/project/ns-morozova/working-environment)
+![CI](https://github.com/ns-morozova/working-environment/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 
